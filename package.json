@@ -3,9 +3,9 @@
 	"version": "0.1.1",
 	"description": "n8n community nodes for KeyCRM API",
 	"license": "MIT",
-	"homepage": "https://github.com/orchidkid/n8n-nodes-keycrm",
+	"homepage": "https://github.com/seosen-py/n8n-nodes-keycrm",
 	"bugs": {
-		"url": "https://github.com/orchidkid/n8n-nodes-keycrm/issues"
+		"url": "https://github.com/seosen-py/n8n-nodes-keycrm/issues"
 	},
 	"keywords": [
 		"n8n-community-node-package",
@@ -15,12 +15,12 @@
 		"automation"
 	],
 	"author": {
-		"name": "orchidkid",
-		"email": "orchidkid@users.noreply.github.com"
+		"name": "seosenpy",
+		"email": "seo.orchid.kid@gmail.com"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/orchidkid/n8n-nodes-keycrm.git"
+		"url": "https://github.com/seosen-py/n8n-nodes-keycrm.git"
 	},
 	"scripts": {
 		"build": "n8n-node build",
